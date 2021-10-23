@@ -1,0 +1,44 @@
+{
+  "submission_date": {
+    "name": "submission_date",
+    "label": "submission_date",
+    "URI": "",
+    "definition": "",
+    "type_of_term": "<class 'str'>"
+  },
+  "state": {
+    "name": "state",
+    "label": "state",
+    "URI": "",
+    "definition": "",
+    "type_of_term": "<class 'str'>"
+  },
+  "tot_cases": {
+    "name": "tot_cases",
+    "label": "tot_cases",
+    "URI": "",
+    "definition": "",
+    "type_of_term": "<class 'str'>"
+  },
+  "new_case": {
+    "name": "new_case",
+    "label": "new_case",
+    "URI": "",
+    "definition": "",
+    "type_of_term": "<class 'str'>"
+  },
+  "tot_death": {
+    "name": "tot_death",
+    "label": "tot_death",
+    "URI": "",
+    "definition": "",
+    "type_of_term": "<class 'str'>"
+  },
+  "created_at": {
+    "name": "created_at",
+    "label": "created_at",
+    "URI": "",
+    "definition": "",
+    "type_of_term": "<class 'str'>"
+  }
+}
